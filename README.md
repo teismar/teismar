@@ -8,6 +8,16 @@
 
 ###
 
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">
+  I'm an IT Security student passionate about developing my skills in IT security, incident response, and network security. Currently, I am part of Telekom Security's Threat Intelligence Team, where I contribute to identifying and mitigating cyber threats. My academic experiences have equipped me with a robust foundation in securing digital environments, and I am continually seeking opportunities to expand my knowledge and expertise in the cybersecurity field.
+</p>
+
+###
+
 <h3 align="left">You can find me on</h3>
 
 ###
