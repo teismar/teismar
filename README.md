@@ -8,12 +8,12 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">I am...</h3>
 
 ###
 
 <p align="left">
-  I'm an IT Security student passionate about developing my skills in IT security, incident response, and network security. Currently, I am part of Telekom Security's Threat Intelligence Team, where I contribute to identifying and mitigating cyber threats. My academic experiences have equipped me with a robust foundation in securing digital environments, and I am continually seeking opportunities to expand my knowledge and expertise in the cybersecurity field.
+  ...an IT Security student passionate about developing my skills in IT security, incident response, and network security. Currently, I am part of Telekom Security's Threat Intelligence Team, where I contribute to identifying and mitigating cyber threats. My academic experiences have equipped me with a robust foundation in securing digital environments, and I am continually seeking opportunities to expand my knowledge and expertise in the cybersecurity field.
 </p>
 
 ###
@@ -30,7 +30,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="Matrix logo" />
   </a>
 </div>
-
 
 ###
 
@@ -67,16 +66,6 @@
 ###
 
 <h3 align="left">You are Number</h3>
-
-###
-
-<h3 align="left">GitHub Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=teismar&show_icons=true&theme=radical" alt="GitHub stats" />
-</div>
 
 ###
 
