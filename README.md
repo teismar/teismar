@@ -70,6 +70,16 @@
 
 ###
 
+<h3 align="left">GitHub Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=teismar&show_icons=true&theme=radical" alt="GitHub stats" />
+</div>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/teismar/count.svg?"  />
 </div>
