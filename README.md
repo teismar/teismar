@@ -62,7 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img height="40" src="https://cdn.simpleicons.org/proxmox/E57000" />
+  <img height="40" src="https://cdn.simpleicons.org/proxmox/E57000" alt="proxmox logo" />
 </div>
 
 ###
