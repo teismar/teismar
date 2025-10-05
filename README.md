@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  ...an IT Security student passionate about developing my skills in IT security, incident response, and network security. Currently, I am part of Telekom Security's Threat Intelligence Team, where I contribute to identifying and mitigating cyber threats. My academic experiences have equipped me with a robust foundation in securing digital environments, and I am continually seeking opportunities to expand my knowledge and expertise in the cybersecurity field.
+  ...an IT Security student passionate about developing my skills in IT security, incident response, and network security. Currently, I am part of Telekom Security's CrowdStrike Engineering Squad, where I contribute to identifying and mitigating cyber threats. My academic experiences have equipped me with a robust foundation in securing digital environments, and I am continually seeking opportunities to expand my knowledge and expertise in the cybersecurity field.
 </p>
 
 ###
