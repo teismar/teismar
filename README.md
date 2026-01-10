@@ -72,5 +72,5 @@
 <div align="center">
   <img src="https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark"  />
 </div>
-
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark)
 ###
