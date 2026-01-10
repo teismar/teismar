@@ -70,15 +70,25 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4"  />
+  <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=flat-square" alt="View Count" />
+  <br>
+  <sub>Tracking since Jan 10, 2026</sub>
 </div>
-<p>Since 10. Jan 2026</p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=flat-square" alt="View Count" />
+  <img src="https://img.shields.io/badge/Since-10_Jan_2026-ff69b4?style=flat-square" alt="Since Date" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=flat-square" alt="View Count" />
+        <br />
+        <small>Since Jan 10, 2026</small>
+      </td>
+    </tr>
+  </table>
+</div>
 ###
-
-![View Counter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark)
-
-
-<a href="https://github.com/teismar">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark" alt="View Counter">
-</a>
