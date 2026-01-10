@@ -75,4 +75,9 @@
 
 ###
 
-![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark)
+![View Counter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark)
+
+
+<a href="https://github.com/teismar">
+  <img src="https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark" alt="View Counter">
+</a>
