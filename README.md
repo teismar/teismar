@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/teismar/count.svg?"  />
+  <img src="https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark"  />
 </div>
 
 ###
