@@ -71,24 +71,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=flat-square" alt="View Count" />
-  <br>
-  <sub>Tracking since Jan 10, 2026</sub>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=flat-square" alt="View Count" />
   <img src="https://img.shields.io/badge/Since-10_Jan_2026-ff69b4?style=flat-square" alt="Since Date" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=flat-square" alt="View Count" />
-        <br />
-        <small>Since Jan 10, 2026</small>
-      </td>
-    </tr>
-  </table>
-</div>
+
 ###
