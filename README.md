@@ -70,8 +70,9 @@
 ###
 
 <div align="center">
-  <img src="https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=teismar&theme=dark"  />
+  <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4"  />
 </div>
+<p>Since 10. Jan 2026</p>
 
 ###
 
