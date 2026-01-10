@@ -71,6 +71,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=teismar&color=ff69b4&style=for-the-badge" alt="View Count" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Since-10_Jan_2026-ff69b4?style=plastic" alt="Since Date" />
 </div>
 
